@@ -112,5 +112,5 @@ img2img-sd-flux-custom/
 ## 📬 Contributing / Contact
 
 Feel free to [open an issue](https://github.com/<your-username>/img2img-sd-flux-custom/issues) or submit a pull request.  
-**Author**: `<Your Name or GitHub Username>`  
+**Author**: `<Siddharthsinghkumar>`  
 **Repo:** [img2img-sd-flux-custom](https://github.com/<your-username>/img2img-sd-flux-custom)
