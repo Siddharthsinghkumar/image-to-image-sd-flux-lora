@@ -1,0 +1,8 @@
+{
+    "strength": 0.7,
+    "cfg_scale": 7.5,
+    "steps": 50,
+    "sampler": "Euler a",
+    "height": 256,
+    "width": 256
+}

@@ -1,0 +1,6 @@
+torch>=2.0.0
+diffusers>=0.10.0
+xformers
+accelerate
+safetensors
+pillow
